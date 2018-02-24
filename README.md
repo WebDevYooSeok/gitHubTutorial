@@ -28,6 +28,9 @@ https://www.youtube.com/watch?v=yXT1ElMEkW8&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6z
 1.7: Git init and Git add<br />
 https://www.youtube.com/watch?v=9p2d-CuVlgc&index=7&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
+1.8: GitHub Pages<br />
+https://www.youtube.com/watch?v=bFVtrlyH-kc&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=8
+
 Useful Tip
 
 $ open .
