@@ -44,3 +44,5 @@ $ git config --list
 $ git remote -v
 
 $ git push {{remote name - ex: origin }} {{branch name - ex: master}}
+
+$ git remote add origin {{URL.git}} - When a user makes a file/directory before creating gitHub repo
