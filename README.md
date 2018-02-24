@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=bFVtrlyH-kc&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6z
 1.9: Resolving Merge Conflicts<br />
 https://www.youtube.com/watch?v=JtIX3HJKwfo&index=9&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
-Useful Tip
+<Useful Tip>
 
 $ open .
 
@@ -50,6 +50,6 @@ $ git push {{remote name - ex: origin }} {{branch name - ex: master}}
 
 $ git remote add origin {{URL.git}} - When a user makes a file/directory before creating gitHub repo
 
-'gh-pages' -> branch name for GitPage. Then, make this branch as default. <br /> 
+'gh-pages' -> branch name for GitPage. Then, make this branch as default. <br />
       * it will be better to delete master branch so that there are no more confusion later.<br />
       * in "Branch Tab" and go to "Setting Tab" in "GitPage Section" to see UR
