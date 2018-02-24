@@ -39,4 +39,4 @@ $ git config --list
 
 $ git remote -v
 
-$ git push origin {{branch name - ex: master}}
+$ git push {{remote name - ex: origin }} {{branch name - ex: master}}
