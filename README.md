@@ -52,3 +52,4 @@ $ git remote add origin {{URL.git}} - When a user makes a file/directory before 
 
 'gh-pages' -> branch name for GitPage. Then, make this branch as default.  
     * it will be better to delete master branch so that there are no more confusion later.
+    * in "Branch Tab"
