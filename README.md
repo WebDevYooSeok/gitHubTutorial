@@ -31,6 +31,9 @@ https://www.youtube.com/watch?v=9p2d-CuVlgc&index=7&list=PLRqwX-V7Uu6ZF9C0YMKuns
 1.8: GitHub Pages<br />
 https://www.youtube.com/watch?v=bFVtrlyH-kc&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=8
 
+1.9: Resolving Merge Conflicts<br />
+https://www.youtube.com/watch?v=JtIX3HJKwfo&index=9&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+
 Useful Tip
 
 $ open .
@@ -44,3 +47,6 @@ $ git config --list
 $ git remote -v
 
 $ git push {{remote name - ex: origin }} {{branch name - ex: master}}
+
+'gh-pages' -> branch name for GitPage. Then, make this branch as default.  
+    * it will be better to delete master branch so that there are no more confusion later.
