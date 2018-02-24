@@ -48,9 +48,7 @@ $ git remote -v
 
 $ git push {{remote name - ex: origin }} {{branch name - ex: master}}
 
-<<<<<<< HEAD
+$ git remote add origin {{URL.git}} - When a user makes a file/directory before creating gitHub repo
+
 'gh-pages' -> branch name for GitPage. Then, make this branch as default.  
     * it will be better to delete master branch so that there are no more confusion later.
-=======
-$ git remote add origin {{URL.git}} - When a user makes a file/directory before creating gitHub repo
->>>>>>> 0a5f81e3e51d7cc3610730c1605b512162abdd1f
