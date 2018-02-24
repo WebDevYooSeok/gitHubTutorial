@@ -25,7 +25,8 @@ https://www.youtube.com/watch?v=oK8EvVeVltE&t=122s
 1.6: Cloning Repo and Push/Pull<br />
 https://www.youtube.com/watch?v=yXT1ElMEkW8&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=6
 
-1.7:
+1.7: Git init and Git add<br />
+https://www.youtube.com/watch?v=9p2d-CuVlgc&index=7&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
 Useful Tip
 
