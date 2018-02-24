@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=bFVtrlyH-kc&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6z
 1.9: Resolving Merge Conflicts<br />
 https://www.youtube.com/watch?v=JtIX3HJKwfo&index=9&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
-<Useful Tip>
+Useful Tips from these video tutorials
 
 $ open .
 
